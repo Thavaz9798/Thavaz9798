@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Thavamanikandan
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently doing Data analytics Bootcamp in @codebasics
+-This is Thavamanikandan , I hope you are all doing good , I am a Data analyst enthusiastic currently I am doing data analyst boot camp in the code basics
+-Here I am Demonstrate the data analyst projects as well as what are the skills I learn from the project
+-For build a great ful carrer in Data analyst
 
-
-<!---
-Thavaz9798/Thavaz9798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
